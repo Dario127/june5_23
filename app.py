@@ -1,1 +1,1 @@
-print("come on baby, love yoyu")
+print("go awway")
