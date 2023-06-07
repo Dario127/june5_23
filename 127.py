@@ -1,1 +1,1 @@
-print ("hum hai toh kya gam hai")
+print ("aaj relocation ka aaya hai")
